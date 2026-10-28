@@ -1,0 +1,6 @@
+{
+  "name": "Smaya's Brain Quest",
+  "description": "A colourful, friendly educational adventure for Year 2 children featuring Maths Adventures, Word Wizard, and Puzzle Island with delightful star rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
